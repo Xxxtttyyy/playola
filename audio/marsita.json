@@ -1,3 +1,13 @@
 [
-  {"url":"mar de ventanilla"/
-  {"url":"mar de ventanilla"/010_afilar.wav","type":"audio","bank":"afilar","n":0} 
+  {"url":"mar de ventanilla/olas(1).wav","type":"audio","bank":"marsita","n":0},
+  {"url":"mar de ventanilla/olas(2).wav","type":"audio","bank":"marsita","n":1},
+  {"url":"muchik palabras/callate la boca_muchik.wav","type":"audio","bank":"yarnaloc","n":0},
+  {"url":"muchik palabras/mujer_muchik.wav","type":"audio","bank":"mecherrec","n":0},
+  {"url":"muchik palabras/taita no hay dios_muchik.wav","type":"audio","bank":"ai apaec","n":0},
+  {"url":"muchik palabras/vea ese mentiroso.wav","type":"audio","bank":"muerte a repsol","n":0},
+  {"url":"muchik palabras/mujer_muchik.wav","type":"audio","bank":"mecherrec","n":0},
+  {"url":"plasticostras/plasticostras 1.wav","type":"audio","bank":"plasticostras","n":0},
+  {"url":"plasticostras/plasticostras 2.wav","type":"audio","bank":"plasticostras","n":1}
+  
+]
+  
